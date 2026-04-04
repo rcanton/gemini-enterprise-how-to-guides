@@ -1,1 +1,1 @@
-*   [Gemini Enterprise - Basics](ge-basics/README.md)
+[Gemini Enterprise - Basics](ge-basics/README.md)
