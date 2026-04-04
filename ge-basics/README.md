@@ -71,4 +71,30 @@ Gemini Enterprise is an "agentic platform" that empowers everyone. The UI provid
 
 ![Agent Library](images/image4.1.png)
 
-*   **Access World-Class Gemini Models**: You'll have instant access to Google's cutti
+*   **Access World-Class Gemini Models**: You'll have instant access to Google's cutting-edge Gemini models, including Gemini 3, to solve complex business problems.
+*   **Ready-to-Use Agents**: The platform offers a suite of Google-made agents, such as Deep Research, NotebookLM, and Coding Agents, delivering value from day one. There's also a thriving ecosystem of partner agents. These can be deployed to automate complex workflows.
+*   **Custom Agent Building (No-Code Workbench)**:
+    *   Any user can build their own custom agents using no-code tools. This powerful no-code workbench allows employees to accelerate tasks and transform how work gets done.
+    *   You can also add your own custom agents or third-party agents.
+
+    ![Agent Designer Start](images/image4.2.png)
+    ![Agent Designer Flow](images/image4.3.png)
+
+*   **Centralized Agent View**: Gemini Enterprise allows you to access, create, and manage all your agents through a single, centralized view. You can centrally visualize, secure, audit, and govern all your agents.
+
+## 5. Connecting Your Business Reality: Data and App Integrations
+
+To ensure agents are grounded in your business reality, the Gemini Enterprise UI facilitates secure connections to your company's data and existing applications:
+
+*   **Secure Data Connection**: You can securely connect to your company data wherever it lives. This includes platforms like Google Workspace and Microsoft 365, business apps like Salesforce and SAP, or datastores like BigQuery.
+*   **Library of Connectors**: The platform offers a library of connectors for various data sources to break organizational data silos.
+*   **Cross-Platform Workflow Automation**: Utilize built-in connectors to partner apps to automate cross-platform workflows in one place.
+
+## 6. Security and Governance: Deploy and Manage with Confidence
+
+Gemini Enterprise is built with a foundation of security and governance you can trust, offering controls directly within the UI:
+
+*   **Built-in Security and Governance**: The platform features built-in security and governance measures.
+*   **Centralized Visibility and Control**: You'll have centralized visibility and control over all agents, permissions, and policies from a single platform.
+*   **Compliance and Sovereignty**: Gemini Enterprise helps you meet security, compliance, and sovereignty requirements of your organization. For Standard and Plus editions, this includes advanced features like VPC-Service Controls, Customer-Managed Encryption Keys, and sovereign data boundaries.
+*   **Proactive Threat Screening**: The platform can proactively screen for malicious and unsafe interactions with Model Armor.
