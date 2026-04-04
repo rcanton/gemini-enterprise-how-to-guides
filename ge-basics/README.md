@@ -2,13 +2,13 @@
 
 Welcome to Gemini Enterprise, your new front door for AI in the workplace! This guide will walk you through the platform's key areas, empowering you to discover, create, and manage AI-powered workflows in a secure environment.
 
+### Click here to watch a brief video of the basics of Gemini Enterprise
 [![Watch the Gemini Enterprise Overview](https://img.youtube.com/vi/qDuOkguAGm8/0.jpg)](https://youtu.be/qDuOkguAGm8)
 
 ## 1. The Main Interface: Your AI Command Center
 
 This area is the central prompt bar of the Gemini Enterprise interface, designed to be the primary interaction point for both general queries and organization-wide data analysis.
 
-**Click to watch a short YouTube video of the basics of Gemini Enterprise**
 ![Main Interface](images/image1.1.png)
 
 ### Key Features and Symbols
@@ -77,6 +77,7 @@ Gemini Enterprise is an "agentic platform" that empowers everyone. The UI provid
 
     ![Agent Designer Start](images/image4.2.png)
     ![Agent Designer Flow](images/image4.3.png)
+
 *   **Centralized Agent View**: Gemini Enterprise allows you to access, create, and manage all your agents through a single, centralized view. You can centrally visualize, secure, audit, and govern all your agents.
 
 ## 5. Connecting Your Business Reality: Data and App Integrations
