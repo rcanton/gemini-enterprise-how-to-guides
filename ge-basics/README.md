@@ -6,7 +6,7 @@ Welcome to Gemini Enterprise, your new front door for AI in the workplace! This 
 
 This area is the central prompt bar of the Gemini Enterprise interface, designed to be the primary interaction point for both general queries and organization-wide data analysis.
 
-![Main Interface](images/main_interface.png)
+![Main Interface](images/image1.1.png)
 
 ### Key Features and Symbols
 
@@ -36,7 +36,7 @@ While specific chip labels can vary based on your organization's data and histor
 
 The sidebar on the left gives you access to your history and the platform's core features.
 
-![Left Navigation](images/left_nav.png)
+![Left Navigation](images/image2.1.png)
 
 *   **New chat**: Start a fresh conversation with Gemini.
 *   **Search**: Find previous chats or content you've created.
@@ -50,7 +50,7 @@ The sidebar on the left gives you access to your history and the platform's core
 
 *   **User Information (Top Right)**: Click your profile icon to verify you are signed into your organization-managed account. This confirms your work is protected by enterprise-grade data privacy and is not used to train Google's models.
 
-    ![User Profile](images/user_profile.png)
+    ![User Profile](images/image3.1.png)
 
 *   **Settings & help (Bottom Left)**:
     *   **Appearance**: Toggle between Light and Dark modes.
@@ -58,13 +58,13 @@ The sidebar on the left gives you access to your history and the platform's core
     *   **Shared chats**: View and manage all public links you have created for your chats.
     *   **Get help**: Access documentation and support.
 
-    ![Settings Menu](images/settings_menu.png)
+    ![Settings Menu](images/image3.2.png)
 
 ## 4. Agent Management: Empowering Everyone with Agents
 
 Gemini Enterprise is an "agentic platform" that empowers everyone. The UI provides capabilities to manage and utilize AI agents effectively:
 
-![Agent Library](images/agent_library.png)
+![Agent Library](images/image4.1.png)
 
 *   **Access World-Class Gemini Models**: You'll have instant access to Google's cutting-edge Gemini models, including Gemini 3, to solve complex business problems.
 *   **Ready-to-Use Agents**: The platform offers a suite of Google-made agents, such as Deep Research, NotebookLM, and Coding Agents, delivering value from day one. There's also a thriving ecosystem of partner agents. These can be deployed to automate complex workflows.
@@ -72,8 +72,8 @@ Gemini Enterprise is an "agentic platform" that empowers everyone. The UI provid
     *   Any user can build their own custom agents using no-code tools. This powerful no-code workbench allows employees to accelerate tasks and transform how work gets done.
     *   You can also add your own custom agents or third-party agents.
 
-    ![Agent Designer Start](images/agent_designer_start.png)
-    ![Agent Designer Flow](images/agent_designer_flow.png)
+    ![Agent Designer Start](images/image4.2.png)
+    ![Agent Designer Flow](images/image4.3.png)
 *   **Centralized Agent View**: Gemini Enterprise allows you to access, create, and manage all your agents through a single, centralized view. You can centrally visualize, secure, audit, and govern all your agents.
 
 ## 5. Connecting Your Business Reality: Data and App Integrations
