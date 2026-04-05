@@ -22,5 +22,5 @@
 * [Gemini Enterprise Hackathon: Technical Track](https://explore.qwiklabs.com/focuses/9324?catalog_rank=%7B%22rank%22%3A6%2C%22num_filters%22%3A0%2C%22has_search%22%3Afalse%7D&parent=catalog)
 
 <p align="right">
-  <img width="100" src="images/Gemini_SparkIcon_4C.png" alt="Gemini Icon">
+  <img width="100" src="../images/Gemini_SparkIcon_4C.png" alt="Gemini Icon">
 </p>
