@@ -1,21 +1,39 @@
+## Table of Contents
+* [Prompting Guide and Best Practices](#prompting-guide-and-best-practices)
+* [Best Practices](#best-practices)
+    * [Characteristics of a Good Prompt](#characteristics-of-a-good-prompt)
+    * [PTCF Framework](#ptcf-framework)
+* [What can you do?](#what-can-you-do)
+    * [AI Assistant](#ai-assistant)
+    * [Documents](#documents)
+    * [External Web Search](#external-web-search)
+    * [Media Generation](#media-generation)
+    * [Notebook LM](#notebook-lm)
+    * [Deep research agent](#deep-research-agent)
+    * [Agent Designer](#agent-designer)
+    * [Agent gallery](#agent-gallery)
+    * [Gemini Code Assist](#gemini-code-assist)
+
+---
+
 # Prompting Guide and Best Practices
 
 You can write your own prompts to engage with Gemini and your organization’s data. You can choose which connectors Gemini Enterprise can use to find the data and the information needed to be used in the response you’re seeking. For example, if your organization has enabled the appropriate connectors, you can provide Gemini access to your SharePoint, Drive, Gmail or Outlook, Salesforce, ServiceNow, Jira, and more. To optimize your results, keep these prompt-writing tips in mind:
 
 -   **Be specific and contextual:** More detail is usually better. Use names, dates, project titles, SKU numbers, case IDs, policy names, etc.
-    -   *Instead of:* “Find sales report.”
-    -   *Try:* “Find the Q1 2026 sales report for the Alpha product line in the North region.”
+-   *Instead of:* “Find sales report.”
+-   *Try:* “Find the Q1 2026 sales report for the Alpha product line in the North region.”
 -   **Define the persona:** Tell Gemini Enterprise who it should act as.
-    -   *Example:* “You are a friendly customer service agent. Draft an email to a customer…”
+-   *Example:* “You are a friendly customer service agent. Draft an email to a customer…”
 -   **Define the output format:** Tell Gemini Enterprise in what format you expect the output to be shared, and also what formats to avoid.
-    -   *Examples:* “Summarize this in bullet points,” “Generate a table comparing X and Y,” “Draft a short paragraph for a slide.”
+-   *Examples:* “Summarize this in bullet points,” “Generate a table comparing X and Y,” “Draft a short paragraph for a slide.”
 -   **Use action verbs:** Start with what you want Gemini Enterprise to do.
-    -   *Examples:* “Find,” “Summarize," “Explain,” “Compare,” “Draft,” “List,”
+-   *Examples:* “Find,” “Summarize," “Explain,” “Compare,” “Draft,” “List,”
 -   **Iterate and refine:** If the first response isn't perfect, ask follow-up questions or rephrase your prompt.
-    -   *Examples:* “Elaborate on Y,” “Make this more concise,” “Add a section about X.”
+-   *Examples:* “Elaborate on Y,” “Make this more concise,” “Add a section about X.”
 -   **Use NotebookLM for multi-document tasks:** When working with several sources, upload them to NotebookLM Enterprise and ask questions across them. You can also share your notebook with your colleagues.
-    -   *Example (after uploading or adding reports):* "Based on these three market reports, what are the common trends identified for the next year?"
-    -   There are also several multi-modal ways to interact with your data once in NotebookLM including audio podcasts, reports, infographics, and much more.
+-   *Example (after uploading or adding reports):* "Based on these three market reports, what are the common trends identified for the next year?"
+-   There are also several multi-modal ways to interact with your data once in NotebookLM including audio podcasts, reports, infographics, and much more.
 
 ## Best Practices
 
@@ -45,29 +63,36 @@ The PTCF Framework is a foundational and highly effective structure that ensures
 Below are some examples of the many capabilities available with Gemini Enterprise pre-configured, even before connecting your organization and data:
 
 -   **AI Assistant** - Generate and analyze content with secure and compliant access to the latest LLM models. Examples include:
-    -   Writing an agenda template for your next team offsite
-    ![AI Assistant Example](images/WhatCanYouDo1.png)
+-   Writing an agenda template for your next team offsite
+
+![AI Assistant Example](images/WhatCanYouDo1.png)
 
 -   **Documents** - You can also attach one or more documents with the + icon (supports PDF, Microsoft Office, images, videos, and more). Once added, you can summarize them, translate them and more.
-    ![Documents Example](images/WhatCanYouDo2.png)
+
+![Documents Example](images/WhatCanYouDo2.png)
 
 -   **External Web Search** - For the most up-to-date information, Gemini Enterprise searches the public web and answers with data grounded in Google Search.
-    ![External Web Search Example](images/WhatCanYouDo3.png)
+
+![External Web Search Example](images/WhatCanYouDo3.png)
 
 -   **Media Generation** - Select from the tools menu on the chat box “Generate Images” or “Create videos” option to generate images and videos using the latest Google image and video models.
-    ![Media Generation Example](images/WhatCanYouDo4.png)
+
+![Media Generation Example](images/WhatCanYouDo4.png)
 
 -   **Notebook LM** - Integrated into Gemini Enterprise, use NotebookLM Enterprise to analyze your uploaded content, ask questions, generate summaries, and even a custom podcast you can interact with.
-    ![Notebook LM Example](images/WhatCanYouDo5.png)
+
+![Notebook LM Example](images/WhatCanYouDo5.png)
 
 -   **Deep research agent** - A Google-built AI agent that creates in-depth reports grounded in Google Search and any data connected with your company’s connectors on any topic you choose.
-    ![Deep Research Agent Example](images/WhatCanYouDo6.png)
+
+![Deep Research Agent Example](images/WhatCanYouDo6.png)
 
 -   **Agent Designer** - Create custom AI agents using a chat interface, no code required. Automate tasks using 30+ pre-built tools and actions.
-    ![Agent Designer Example](images/WhatCanYouDo7.png)
+
+![Agent Designer Example](images/WhatCanYouDo7.png)
 
 -   **Agent gallery** - Discover specialized agents built with any framework including Google ADK and then deploy and govern them in Gemini Enterprise.
-    ![Agent Gallery Example](images/WhatCanYouDo8.png)
+
+![Agent Gallery Example](images/WhatCanYouDo8.png)
 
 -   **Gemini Code Assist** - A Google-built coding agent that helps developers simplify their workflows, speeding common development tasks by over 20%.
-
