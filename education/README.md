@@ -1,3 +1,7 @@
+<p align="right">
+  <img width="100" src="../images/Gemini_SparkIcon_4C.png" alt="Gemini Icon">
+</p>
+
 # Education
 
 ## Certification
