@@ -1,10 +1,25 @@
 # Navigating Gemini Enterprise: A Guide to Your AI Workplace
 
+## Table of Contents
+* [1. The Main Interface: Your AI Command Center](#1-the-main-interface-your-ai-command-center)
+    * [Key Features and Symbols](#key-features-and-symbols)
+    * [Functionality](#functionality)
+* [2. The Left Navigation Panel: Your Control Center](#2-the-left-navigation-panel-your-control-center)
+* [3. Managing Your Profile and Settings](#3-managing-your-profile-and-settings)
+* [4. Agent Management: Empowering Everyone with Agents](#4-agent-management-empowering-everyone-with-agents)
+* [5. Connecting Your Business Reality: Data and App Integrations](#5-connecting-your-business-reality-data-and-app-integrations)
+* [6. Security and Governance: Deploy and Manage with Confidence](#6-security-and-governance-deploy-and-manage-with-confidence)
+
+---
+
 Welcome to Gemini Enterprise, your new front door for AI in the workplace! This guide will walk you through the platform's key areas, empowering you to discover, create, and manage AI-powered workflows in a secure environment.
 
 ### Click here to watch a brief video of the basics of Gemini Enterprise
+
 <a href="https://youtu.be/qDuOkguAGm8" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.youtube.com/vi/qDuOkguAGm8/0.jpg" alt="Watch the Gemini Enterprise Overview">
+
+<img src="https://img.youtube.com/vi/qDuOkguAGm8/0.jpg" alt="Watch the Gemini Enterprise Overview">
+
 </a>
 
 ## 1. The Main Interface: Your AI Command Center
@@ -78,6 +93,7 @@ Gemini Enterprise is an "agentic platform" that empowers everyone. The UI provid
     *   You can also add your own custom agents or third-party agents.
 
     ![Agent Designer Start](images/image4.2.png)
+
     ![Agent Designer Flow](images/image4.3.png)
 
 *   **Centralized Agent View**: Gemini Enterprise allows you to access, create, and manage all your agents through a single, centralized view. You can centrally visualize, secure, audit, and govern all your agents.
