@@ -1,3 +1,6 @@
+![Gemini Enterprise](images/Gemini-Enterprise-Lockup-full-color-horizontal-rgb@4x.png)
+
+
 # Gemini Enterprise How-To Guides
 
 This repository contains a collection of how-to guides for using Gemini Enterprise. Each subdirectory in this repository contains a specific guide with its own README file.
