@@ -1,7 +1,8 @@
+![Gemini Enterprise](images/Gemini-Enterprise-Lockup-full-color-horizontal-rgb@4x.png)
+
 <p align="right">
   <img width="100" src="images/Gemini_SparkIcon_4C.png" alt="Gemini Icon">
 </p>
-![Gemini Enterprise](images/Gemini-Enterprise-Lockup-full-color-horizontal-rgb@4x.png)
 
 # Gemini Enterprise How-To Guides
 
