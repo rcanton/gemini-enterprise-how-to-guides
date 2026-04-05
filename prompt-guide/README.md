@@ -2,6 +2,8 @@
   <img width="100" src="../images/Gemini_SparkIcon_4C.png" alt="Gemini Icon">
 </p>
 
+# Prompting Guide and Best Practices
+
 ## Table of Contents
 * [Prompting Guide and Best Practices](#prompting-guide-and-best-practices)
 * [Best Practices](#best-practices)
@@ -19,8 +21,6 @@
     * [Gemini Code Assist](#gemini-code-assist)
 
 ---
-
-# Prompting Guide and Best Practices
 
 You can write your own prompts to engage with Gemini and your organization’s data. You can choose which connectors Gemini Enterprise can use to find the data and the information needed to be used in the response you’re seeking. For example, if your organization has enabled the appropriate connectors, you can provide Gemini access to your SharePoint, Drive, Gmail or Outlook, Salesforce, ServiceNow, Jira, and more. To optimize your results, keep these prompt-writing tips in mind:
 
