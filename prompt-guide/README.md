@@ -46,28 +46,28 @@ Below are some examples of the many capabilities available with Gemini Enterpris
 
 -   **AI Assistant** - Generate and analyze content with secure and compliant access to the latest LLM models. Examples include:
     -   Writing an agenda template for your next team offsite
-    ![AI Assistant Example](images/ai_assistant_example.png)
+    ![AI Assistant Example](images/WhatCanYouDo1.png)
 
 -   **Documents** - You can also attach one or more documents with the + icon (supports PDF, Microsoft Office, images, videos, and more). Once added, you can summarize them, translate them and more.
-    ![Documents Example](images/documents_example.png)
+    ![Documents Example](images/WhatCanYouDo2.png)
 
 -   **External Web Search** - For the most up-to-date information, Gemini Enterprise searches the public web and answers with data grounded in Google Search.
-    ![External Web Search Example](images/external_web_search_example.png)
+    ![External Web Search Example](images/WhatCanYouDo3.png)
 
 -   **Media Generation** - Select from the tools menu on the chat box “Generate Images” or “Create videos” option to generate images and videos using the latest Google image and video models.
-    ![Media Generation Example](images/media_generation_example.png)
+    ![Media Generation Example](images/WhatCanYouDo4.png)
 
 -   **Notebook LM** - Integrated into Gemini Enterprise, use NotebookLM Enterprise to analyze your uploaded content, ask questions, generate summaries, and even a custom podcast you can interact with.
-    ![Notebook LM Example](images/notebook_lm_example.png)
+    ![Notebook LM Example](images/WhatCanYouDo5.png)
 
 -   **Deep research agent** - A Google-built AI agent that creates in-depth reports grounded in Google Search and any data connected with your company’s connectors on any topic you choose.
-    ![Deep Research Agent Example](images/deep_research_agent_example.png)
+    ![Deep Research Agent Example](images/WhatCanYouDo6.png)
 
 -   **Agent Designer** - Create custom AI agents using a chat interface, no code required. Automate tasks using 30+ pre-built tools and actions.
-    ![Agent Designer Example](images/agent_designer_example.png)
+    ![Agent Designer Example](images/WhatCanYouDo7.png)
 
 -   **Agent gallery** - Discover specialized agents built with any framework including Google ADK and then deploy and govern them in Gemini Enterprise.
-    ![Agent Gallery Example](images/agent_gallery_example.png)
+    ![Agent Gallery Example](images/WhatCanYouDo8.png)
 
 -   **Gemini Code Assist** - A Google-built coding agent that helps developers simplify their workflows, speeding common development tasks by over 20%.
 
