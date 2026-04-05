@@ -2,6 +2,7 @@
 <p align="right">
   <img width="100" src="../images/Gemini_SparkIcon_4C.png" alt="Gemini Icon">
 </p>
+
 ## Table of Contents
 * [1. The Main Interface: Your AI Command Center](#1-the-main-interface-your-ai-command-center)
     * [Key Features and Symbols](#key-features-and-symbols)
