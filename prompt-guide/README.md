@@ -21,7 +21,7 @@ You can write your own prompts to engage with Gemini and your organization’s d
 
 **Weak Prompt:** “Create a project plan”
 
-![Powerful Prompt Example](images/powerful_prompt_example.png)
+![Powerful Prompt Example](images/PromptingBestPractices.png)
 
 ### Characteristics of a Good Prompt
 
