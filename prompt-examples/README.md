@@ -1,5 +1,47 @@
 # Prompt Examples by Persona
 
+This document provides prompt examples tailored to various personas within a Media & Entertainment organization. Use the table of contents below to jump directly to the section you need.
+
+## Table of Contents
+
+*   [Executives](#executives)
+    *   [CEO](#ceo)
+    *   [Head of Strategy](#head-of-strategy)
+    *   [CFO](#cfo)
+    *   [Head of Content](#head-of-content)
+    *   [COO](#coo)
+    *   [CHRO](#chro)
+    *   [CLO](#clo)
+*   [Customer Service](#customer-service)
+*   [Human Resources](#human-resources)
+*   [Marketing](#marketing)
+    *   [Social Media Manager](#social-media-manager)
+    *   [Marketing Director](#marketing-director)
+    *   [Publicist](#publicist)
+    *   [Content Marketer](#content-marketer)
+    *   [Brand Manager](#brand-manager)
+*   [Project Management](#project-management)
+*   [Sales](#sales)
+*   [Media & Entertainment](#media--entertainment)
+    *   [Screenwriters](#screenwriters)
+    *   [Novelist](#novelist)
+    *   [Concept Artist](#concept-artist)
+    *   [Content Creator](#content-creator)
+    *   [Showrunner](#showrunner)
+    *   [Producer](#producer)
+    *   [VFX Artist](#vfx-artist)
+    *   [Editor](#editor)
+    *   [Line Producer](#line-producer)
+    *   [Post-Production Supervisor](#post-production-supervisor)
+*   [Technical](#technical)
+    *   [Data Analyst](#data-analyst)
+    *   [Software Engineer](#software-engineer)
+    *   [Data Scientist](#data-scientist)
+    *   [Broadcast Engineer](#broadcast-engineer)
+    *   [BI Developer](#bi-developer)
+
+---
+
 ## Executives
 
 ### CEO
