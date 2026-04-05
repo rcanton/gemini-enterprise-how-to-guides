@@ -1,3 +1,7 @@
+<p align="right">
+  <img width="100" src="images/Gemini_SparkIcon_4C.png" alt="Gemini Icon">
+</p>
+
 # Prompt Examples by Persona
 
 This document provides prompt examples tailored to various personas within a Media & Entertainment organization. Use the table of contents below to jump directly to the section you need.
