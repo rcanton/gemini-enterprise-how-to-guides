@@ -260,18 +260,48 @@ Summarize the following content and use it to write a clear and concise product 
 ---
 ## Human Resources
 
-> "As an HR manager, I'm developing a presentation for new hires. Draft talking points for a script about our commitment to employee development and well-being, showcasing why mentorship is a core value."
+> As an HR manager, I'm developing a presentation for new hires. Draft talking points for a script about our commitment to employee development and well-being, showcasing why mentorship is a core value.
 
-> "Write a strong, professional closing statement for a presentation, conveying our expectation that all employees should contribute to a respectful and welcoming workplace."
+📋 Copy-friendly version
+``` text
+As an HR manager, I'm developing a presentation for new hires. Draft talking points for a script about our commitment to employee development and well-being, showcasing why mentorship is a core value.
+```
+---
+> Write a strong, professional closing statement for a presentation, conveying our expectation that all employees should contribute to a respectful and welcoming workplace.
 
-> "Write a compelling job description for a new Content Marketing Manager. Key responsibilities include [insert responsibilities] and requirements include B2B/B2C content creation and 5+ years of experience."
+📋 Copy-friendly version
+``` text
+Write a strong, professional closing statement for a presentation, conveying our expectation that all employees should contribute to a respectful and welcoming workplace.
+```
+---
+> Write a compelling job description for a new Content Marketing Manager. Key responsibilities include [insert responsibilities] and requirements include B2B/B2C content creation and 5+ years of experience.
 
-> "Summarize the following interview notes and generate a shortlist of top candidates for the [position] role. [Paste interview notes here]"
+📋 Copy-friendly version
+``` text
+Write a compelling job description for a new Content Marketing Manager. Key responsibilities include [insert responsibilities] and requirements include B2B/B2C content creation and 5+ years of experience.
+```
+---
+> Summarize the following interview notes and generate a shortlist of top candidates for the [position] role. [Paste interview notes here]
 
-> "Create a markdown table outlining a new employee's first-week schedule. Include columns for 'Activity', 'Description', 'Key Contacts', and 'Priority Level'."
+📋 Copy-friendly version
+``` text
+Summarize the following interview notes and generate a shortlist of top candidates for the [position] role. [Paste interview notes here]
+```
+---
+> Create a markdown table outlining a new employee's first-week schedule. Include columns for 'Activity', 'Description', 'Key Contacts', and 'Priority Level'.
 
-> "Draft an email to senior leadership summarizing the key findings from the following report. Include a short intro and bullet points on the most important findings. [Paste report text here]"
+📋 Copy-friendly version
+``` text
+Create a markdown table outlining a new employee's first-week schedule. Include columns for 'Activity', 'Description', 'Key Contacts', and 'Priority Level'.
+```
+---
+> Draft an email to senior leadership summarizing the key findings from the following report. Include a short intro and bullet points on the most important findings. [Paste report text here]
 
+📋 Copy-friendly version
+``` text
+Draft an email to senior leadership summarizing the key findings from the following report. Include a short intro and bullet points on the most important findings. [Paste report text here]
+```
+---
 ## Marketing
 
 > "Create a blog post draft announcing that [name] is joining [company] as [position]. Include two or three details from their bio, such as previous roles and professional affiliations."
