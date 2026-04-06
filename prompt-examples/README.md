@@ -223,11 +223,11 @@ Flag any 'red flag' clauses that deviate from our standard @Corporate_Procuremen
 As a customer service representative, craft an empathetic email response to a customer complaint. The customer's headphones arrived damaged...
 ```
 ---
-> "Suggest 10 alternative options to expedited shipping to resolve a customer's frustration about receiving a damaged package."
+> Suggest 10 alternative options to expedited shipping to resolve a customer's frustration about receiving a damaged package.
 
 📋 Copy-friendly version
 ``` text
-As a customer service representative, craft an empathetic email response to a customer complaint. The customer's headphones arrived damaged...
+Suggest 10 alternative options to expedited shipping to resolve a customer's frustration about receiving a damaged package.
 ```
 ---
 > As a customer service manager, draft templates for three types of customer communication: apology emails, order confirmation messages, and thank you notes. Each template should be one paragraph with a friendly tone.
