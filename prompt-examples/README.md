@@ -52,8 +52,7 @@ This document provides prompt examples tailored to various personas within a Med
 
 > Draft the opening remarks for an all-hands meeting. The theme is 'The Future of Storytelling.' I need to address both our successes in linear broadcasting and our strategic pivot towards digital streaming. The tone should be optimistic, inspiring, and reinforce our position as an industry leader.
 
-<details>
-<summary>📋 Copy-friendly version</summary>
+📋 Copy-friendly version
 ```
 Draft the opening remarks for an all-hands meeting. The theme is 'The Future of Storytelling.' I need to address both our successes in linear broadcasting and our strategic pivot towards digital streaming. The tone should be optimistic, inspiring, and reinforce our position as an industry leader.
 ```
