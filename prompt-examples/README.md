@@ -56,7 +56,8 @@ I need to address both our successes in linear broadcasting and our strategic pi
 The tone should be optimistic, inspiring, and reinforce our position as an industry leader.
 ```
 ``` text
-Draft an email confirming my attendance at the upcoming board meeting and ask if the agenda can be adjusted to give 15 minutes to [urgent topics]."
+Draft an email confirming my attendance at the upcoming board meeting and ask if the agenda can be adjusted to
+ give 15 minutes to [urgent topics]."
 ```
 
 > "Write two uplifting and optimistic paragraphs for employees who have just finished a challenging quarter. Acknowledge [difficulties] and emphasize [positives]."
