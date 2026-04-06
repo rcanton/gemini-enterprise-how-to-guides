@@ -51,7 +51,9 @@ This document provides prompt examples tailored to various personas within a Med
 ### CEO
 
 ``` text
-Draft the opening remarks for an all-hands meeting. The theme is 'The Future of Storytelling.' I need to address both our successes in linear broadcasting and our strategic pivot towards digital streaming. The tone should be optimistic, inspiring, and reinforce our position as an industry leader.
+Draft the opening remarks for an all-hands meeting. The theme is 'The Future of Storytelling.'
+I need to address both our successes in linear broadcasting and our strategic pivot towards digital streaming.
+The tone should be optimistic, inspiring, and reinforce our position as an industry leader.
 ```
 > "Draft an email confirming my attendance at the upcoming board meeting and ask if the agenda can be adjusted to give 15 minutes to [urgent topics]."
 
