@@ -11,7 +11,7 @@ Please refer to the `README.md` file in each of the subdirectories for detailed 
 *   [Gemini Enterprise - Basics](./ge-basics/README.md)
 *   [Prompt Guide](./prompt-guide/README.md)
 *   [Prompt Examples](./prompt-examples/README.md)
-*   *   [Prompt Examples](./no-code-agents/README.md)
+*   [Creating Your First No Code Agent](./no-code-agents/README.md)
 *   [Education](./education/README.md)
 
 <p align="right">
