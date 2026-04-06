@@ -25,7 +25,6 @@ If you want to get your agent up and running in seconds, you can simply describe
 It’s that simple, once you’ve tested your agent, you can hit `Create`. Congratulations you have created your first no-code agent in Gemini Enterprise, it’s that simple!
 
 At this point you can continue editing the agent or just simply chat with it. You can also find your newly created agent by clicking Agents in the left bar. Under “Your agents” you will see your newly created agent. At this point you can pin it so it always shows in your left bar. You can also edit the agent if you want to make some changes to it. And you could even share with your colleagues if it’s an agent you think they could use as well.
-![Image of agent options in the side panel](images/nocode4.png)
 
 ## Method 2: The Step-by-Step Way (Using the Builder)
 
@@ -36,6 +35,7 @@ If you prefer to configure every detail manually or want to use a multi-agent wo
 *   **Open Gemini Enterprise**: Navigate to your Gemini Enterprise web application.
 *   **Create a New Agent**: Click on `+ Create agent`.
 *   **Proceed to the Builder**: Click on `Proceed to builder` to go directly to the Agent Designer's Flow tab.
+*   ![Image of agent options in the side panel](images/nocode4.png)
     ![Image showing 'Proceed to Builder' button](images/nocode5.png)
 *   **Configure Your Agent**: Click on the "My Agent" node on the canvas to open the configuration panel:
     *   **Name**: Chief of Staff
