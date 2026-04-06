@@ -56,20 +56,21 @@ This document provides prompt examples tailored to various personas within a Med
 ```
 Draft the opening remarks for an all-hands meeting. The theme is 'The Future of Storytelling.' I need to address both our successes in linear broadcasting and our strategic pivot towards digital streaming. The tone should be optimistic, inspiring, and reinforce our position as an industry leader.
 ```
+---
 > Draft an email confirming my attendance at the upcoming board meeting and ask if the agenda can be adjusted to give 15 minutes to [urgent topics].
 
 📋 Copy-friendly version
 ``` text
 Draft an email confirming my attendance at the upcoming board meeting and ask if the agenda can be adjusted to give 15 minutes to [urgent topics].
 ```
-
+---
 > Write two uplifting and optimistic paragraphs for employees who have just finished a challenging quarter. Acknowledge [difficulties] and emphasize [positives].
 
 📋 Copy-friendly version
 ``` text
 Write two uplifting and optimistic paragraphs for employees who have just finished a challenging quarter. Acknowledge [difficulties] and emphasize [positives].
 ```
-
+---
 ### Head of Strategy
 
 > Generate a summary of the current competitive landscape for streaming services in North America. Create a markdown table comparing our service with three key competitors on the basis of 'Subscription Price,' 'Original Content Strategy,' and 'Reported Market Share'.
@@ -78,28 +79,28 @@ Write two uplifting and optimistic paragraphs for employees who have just finish
 ``` text
 Generate a summary of the current competitive landscape for streaming services in North America. Create a markdown table comparing our service with three key competitors on the basis of 'Subscription Price,' 'Original Content Strategy,' and 'Reported Market Share'.
 ```
-
+---
 > Summarize the key findings and implications of the following report for [audience]. Maintain a formal tone and focus on the main vulnerabilities. [Paste report text here]
 
 📋 Copy-friendly version
 ``` text
 Summarize the key findings and implications of the following report for [audience]. Maintain a formal tone and focus on the main vulnerabilities. [Paste report text here]
 ```
-
+---
 > Research adjacent markets for our core [Product/Service]. Analyze market size, 5-year growth trends, and the top three competitors. Identify the primary 'barrier to entry' for each and suggest three organic vs. acquisition entry strategies. Present this as a comparison table.
 
 📋 Copy-friendly version
 ``` text
 Research adjacent markets for our core [Product/Service]. Analyze market size, 5-year growth trends, and the top three competitors. Identify the primary 'barrier to entry' for each and suggest three organic vs. acquisition entry strategies. Present this as a comparison table.
 ```
-
+---
 > Analyze emerging competitive threats in the [Specific Industry] that traditional incumbents might miss. Focus on non-obvious technology disruptions or business model innovations (e.g., 'as-a-service' shifts) that could reshape the landscape in the next 18 months. List 5 early warning signals we should monitor.
 
 📋 Copy-friendly version
 ``` text
 Analyze emerging competitive threats in the [Specific Industry] that traditional incumbents might miss. Focus on non-obvious technology disruptions or business model innovations (e.g., 'as-a-service' shifts) that could reshape the landscape in the next 18 months. List 5 early warning signals we should monitor.
 ```
-
+---
 ### CFO
 
 > I need to present our quarterly content budget performance to the board. Summarize the following financial data into three key bullet points for a presentation slide. Focus on the ROI of our original content investments versus licensed content acquisitions. [Paste financial data here]
@@ -108,23 +109,23 @@ Analyze emerging competitive threats in the [Specific Industry] that traditional
 ``` text
 I need to present our quarterly content budget performance to the board. Summarize the following financial data into three key bullet points for a presentation slide. Focus on the ROI of our original content investments versus licensed content acquisitions. [Paste financial data here]
 ```
-
+---
 > Using the attached @Quarterly_Financial_Spreadsheet and @Department_Reports, draft a 4-bullet executive summary for a Board of Directors slide. Highlight the delta between projected vs. actual spend, the primary driver of our OpEx increase, and a recommendation for Q3 re-allocation.
 
 📋 Copy-friendly version
 ``` text
 Using the attached @Quarterly_Financial_Spreadsheet and @Department_Reports, draft a 4-bullet executive summary for a Board of Directors slide. Highlight the delta between projected vs. actual spend, the primary driver of our OpEx increase, and a recommendation for Q3 re-allocation.
 ```
-
+---
 ### Head of Content
 
 > Draft an email to a high-profile director to congratulate them on their recent award nomination. Express our company's interest in collaborating on a future project and propose a meeting to discuss their creative vision and how we can support it with our studio resources.
-
+---
 📋 Copy-friendly version
 ``` text
 Draft an email to a high-profile director to congratulate them on their recent award nomination. Express our company's interest in collaborating on a future project and propose a meeting to discuss their creative vision and how we can support it with our studio resources.
 ```
-
+---
 ### COO
 
 > Generate a list of talking points for an interview with a major industry publication. The topic is our company's strategy for integrating AI into our content production pipeline. The points should emphasize efficiency gains, creative empowerment for artists, and our commitment to ethical implementation.
@@ -133,14 +134,14 @@ Draft an email to a high-profile director to congratulate them on their recent a
 ``` text
 Generate a list of talking points for an interview with a major industry publication. The topic is our company's strategy for integrating AI into our content production pipeline. The points should emphasize efficiency gains, creative empowerment for artists, and our commitment to ethical implementation.
 ```
-
+---
 > I have a meeting with [Name] from [Company] in 15 minutes. Search my @Gmail and @Google Drive for our last three interactions. Summarize any open action items, the last document they shared with me, and any mentions of their current top priorities or 'pain points'.
 
 📋 Copy-friendly version
 ``` text
 I have a meeting with [Name] from [Company] in 15 minutes. Search my @Gmail and @Google Drive for our last three interactions. Summarize any open action items, the last document they shared with me, and any mentions of their current top priorities or 'pain points'.
 ```
-
+---
 > Here is a raw brain dump regarding our recent [Issue/System Outage/Project Delay]. Draft three versions of an update:
 > *   To the Board: Strategic, high-level, focused on mitigation and revenue impact.
 > *   To Employees: Empathetic, rallying, and transparent.
@@ -157,7 +158,7 @@ Here is a raw brain dump regarding our recent [Issue/System Outage/Project Delay
 
  Keep all under 200 words.
 ```
-
+---
 > I am uploading a photo of our whiteboard session from today's brainstorming on [Project X].
 > *   Transcribe the notes.
 > *   Convert the flow into a structured step-by-step project brief.
@@ -170,7 +171,7 @@ I am uploading a photo of our whiteboard session from today's brainstorming on [
  *   Convert the flow into a structured step-by-step project brief.
  *   List the likely technical dependencies and three potential 'single points of failure' implied by this diagram.
 ```
-
+---
 ### CHRO
 
 > I am hosting a town hall regarding our [New Corporate Policy/Restructuring]. Based on the attached announcement, brainstorm 5 difficult or skeptical questions employees might ask. For each, provide a response that is transparent and firm but maintains a culture of psychological safety.
@@ -179,21 +180,21 @@ I am uploading a photo of our whiteboard session from today's brainstorming on [
 ``` text
 I am hosting a town hall regarding our [New Corporate Policy/Restructuring]. Based on the attached announcement, brainstorm 5 difficult or skeptical questions employees might ask. For each, provide a response that is transparent and firm but maintains a culture of psychological safety.
 ```
-
+---
 > I am preparing for a 1-on-1 with a high-performing manager who is struggling with [Specific Skill, e.g., delegating/conflict resolution]. Based on [Modern Leadership Framework], draft a coaching agenda that focuses on 'asking not telling.' Include 5 open-ended questions to help them reach their own solution.
 
 📋 Copy-friendly version
 ``` text
 I am preparing for a 1-on-1 with a high-performing manager who is struggling with [Specific Skill, e.g., delegating/conflict resolution]. Based on [Modern Leadership Framework], draft a coaching agenda that focuses on 'asking not telling.' Include 5 open-ended questions to help them reach their own solution.
 ```
-
+---
 > Analyze the anonymized text from our latest @Employee_Engagement_Survey. Identify the top three themes driving 'burnout' and the top three themes driving 'retention.' Suggest three low-cost, high-impact initiatives to address the burnout concerns specifically for the Engineering department.
 
 📋 Copy-friendly version
 ``` text
 Analyze the anonymized text from our latest @Employee_Engagement_Survey. Identify the top three themes driving 'burnout' and the top three themes driving 'retention.' Suggest three low-cost, high-impact initiatives to address the burnout concerns specifically for the Engineering department.
 ```
-
+---
 ### CLO
 
 > Compare the attached @Vendor_A_Contract and @Vendor_B_Contract. Create a table highlighting differences in:
@@ -212,7 +213,7 @@ Compare the attached @Vendor_A_Contract and @Vendor_B_Contract. Create a table h
 
 Flag any 'red flag' clauses that deviate from our standard @Corporate_Procurement_Policy.
 ```
-
+---
 ## Customer Service
 
 > "As a customer service representative, craft an empathetic email response to a customer complaint. The customer's headphones arrived damaged..."
