@@ -216,18 +216,48 @@ Flag any 'red flag' clauses that deviate from our standard @Corporate_Procuremen
 ---
 ## Customer Service
 
-> "As a customer service representative, craft an empathetic email response to a customer complaint. The customer's headphones arrived damaged..."
+> As a customer service representative, craft an empathetic email response to a customer complaint. The customer's headphones arrived damaged...
 
+📋 Copy-friendly version
+``` text
+As a customer service representative, craft an empathetic email response to a customer complaint. The customer's headphones arrived damaged...
+```
+---
 > "Suggest 10 alternative options to expedited shipping to resolve a customer's frustration about receiving a damaged package."
 
-> "As a customer service manager, draft templates for three types of customer communication: apology emails, order confirmation messages, and thank you notes. Each template should be one paragraph with a friendly tone."
+📋 Copy-friendly version
+``` text
+As a customer service representative, craft an empathetic email response to a customer complaint. The customer's headphones arrived damaged...
+```
+---
+> As a customer service manager, draft templates for three types of customer communication: apology emails, order confirmation messages, and thank you notes. Each template should be one paragraph with a friendly tone.
 
-> "Draft an email to my colleagues proposing a meeting to discuss customer experience improvement initiatives. Request that stakeholders from marketing, sales, and product meet next week to clarify roles."
+📋 Copy-friendly version
+``` text
+As a customer service manager, draft templates for three types of customer communication: apology emails, order confirmation messages, and thank you notes. Each template should be one paragraph with a friendly tone.
+```
+---
+> Draft an email to my colleagues proposing a meeting to discuss customer experience improvement initiatives. Request that stakeholders from marketing, sales, and product meet next week to clarify roles.
 
-> "Generate a markdown table to track customer experience improvement tactics. Include columns for the tactic, relevant metrics like support ticket volume, and priority level."
+📋 Copy-friendly version
+``` text
+Draft an email to my colleagues proposing a meeting to discuss customer experience improvement initiatives. Request that stakeholders from marketing, sales, and product meet next week to clarify roles.
+```
+---
+> Generate a markdown table to track customer experience improvement tactics. Include columns for the tactic, relevant metrics like support ticket volume, and priority level.
 
-> "Summarize the following content and use it to write a clear and concise product return policy. The policy should outline 5 steps for customers. [Paste content here]"
+📋 Copy-friendly version
+``` text
+Generate a markdown table to track customer experience improvement tactics. Include columns for the tactic, relevant metrics like support ticket volume, and priority level.
+```
+---
+> Summarize the following content and use it to write a clear and concise product return policy. The policy should outline 5 steps for customers. [Paste content here]
 
+📋 Copy-friendly version
+``` text
+Summarize the following content and use it to write a clear and concise product return policy. The policy should outline 5 steps for customers. [Paste content here]
+```
+---
 ## Human Resources
 
 > "As an HR manager, I'm developing a presentation for new hires. Draft talking points for a script about our commitment to employee development and well-being, showcasing why mentorship is a core value."
