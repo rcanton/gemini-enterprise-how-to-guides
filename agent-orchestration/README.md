@@ -46,7 +46,7 @@ In the Agent Designer's "Flow" tab, you will add each of the three specialist ag
 
 Before we build the orchestrator, we need to create the team of specialist sub-agents it will manage. These are the "doers" in our workflow.
 
-![Agent Designer showing the Marketing Strategist orchestrator agent's details: Name, Description, and Instructions.](./images/orchestrator_setup.png)
+![Agent Designer showing the Marketing Strategist orchestrator agent's details: Name, Description, and Instructions.](./images/orchestration2.png)
 
 ### Step 5: Create the 'Industry Trendwatcher' Sub-Agent
 
@@ -57,7 +57,7 @@ This agent will be our social media expert. Click on the `+` sign at the bottom 
 *   **Instructions**: You are a Social Media Data Scientist. Your task is to analyze LinkedIn for top-performing posts in the 'Streaming Video,' 'Content Production,' and 'Hollywood Studios' sectors. You will be given a topic to research. Analyze the visuals, hooks, and topics of the top posts related to the given topic. Your goal is to return a 'Success Template' that outlines the tone and structure currently driving high engagement among media professionals.
 *   **Tools**: Google Search
 
-![Agent Designer showing the Marketing Strategist orchestrator agent's details: Name, Description, and Instructions.](./images/orchestration2.png)
+![Agent Designer showing the Marketing Strategist orchestrator agent's details: Name, Description, and Instructions.](./images/orchestration3.png)
 
 ### Step 6: Create the 'Regional Scout' Sub-Agent
 
@@ -68,7 +68,7 @@ This agent is our regional news analyst.
 *   **Instructions**: You are a Media Analyst specializing in the Hispanic market. You will be given a topic to research. Your role is to scour the internet for the latest news on that topic in the Spanish-speaking world, focusing on TelevisaUnivision, ViX, and their competitors. Return a summary of the 3 most significant news items from the last 48 hours, highlighting their impact on the future of Spanish-language content.
 *   **Tools**: Google Search
 
-![Agent Designer showing the Marketing Strategist orchestrator agent's details: Name, Description, and Instructions.](./images/orchestration3.png)
+![Agent Designer showing the Marketing Strategist orchestrator agent's details: Name, Description, and Instructions.](./images/orchestration4.png)
 
 ### Step 7: Create 'The Bilingual Content Creator' Sub-Agent
 
@@ -79,11 +79,11 @@ This agent is our expert copywriter. It synthesizes information rather than gath
 *   **Instructions**: You are a Master Ghostwriter for Media Executives. You will receive a body of research. Your role is to synthesize this research into three distinct LinkedIn posts (formal, casual, and data-focused) that position the user as a leading expert in the Spanish-language streaming market. The posts should be in Spanish, use a "Neutral Spanish" for a global audience, and include a strong hook, bulleted insights, a 'Call to Conversation', tagging recommendations, relevant hashtags, and a "Visibility Tip" for each.
 *   **Tools**: None (This agent only processes information passed to it).
 
-![Agent Designer showing the Marketing Strategist orchestrator agent's details: Name, Description, and Instructions.](./images/orchestration4.png)
+![Agent Designer showing the Marketing Strategist orchestrator agent's details: Name, Description, and Instructions.](./images/orchestration5.png)
 
 You should now see your 3 agents under the Marketing Strategist orchestrator in Agent Designer. Now it's time to build the main agent that will orchestrate the sub-agents.
 
-![Agent Designer showing the Marketing Strategist orchestrator agent's details: Name, Description, and Instructions.](./images/orchestration5.png)
+![Agent Designer showing the Marketing Strategist orchestrator agent's details: Name, Description, and Instructions.](./images/orchestration6.png)
 
 ## Part 4: Let’s put it all together
 
@@ -107,7 +107,7 @@ You now interact with only the 'Marketing Strategist' agent. When you give it th
 
 You have successfully built an orchestrated, multi-step agent workflow!
 
-![Agent Designer showing the Marketing Strategist orchestrator agent's details: Name, Description, and Instructions.](./images/orchestration6.png)
+![Agent Designer showing the Marketing Strategist orchestrator agent's details: Name, Description, and Instructions.](./images/orchestration7.png)
 
 ## Part 5: Full Automation—The "Fire and Forget" Workflow
 
@@ -130,6 +130,4 @@ In the Agent Designer, open your 'Marketing Strategist' agent and go to the "Sch
 *   Click on **Add Schedule**.
 
 You have now achieved a fully automated, end-to-end workflow, turning a complex, multi-step process into a proactive and effortless intelligence engine for your team.
-
-![Agent Designer showing the Marketing Strategist orchestrator agent's details: Name, Description, and Instructions.](./images/orchestration7.png)
 
