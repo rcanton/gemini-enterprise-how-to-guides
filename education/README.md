@@ -6,7 +6,7 @@
 
 ## Certification
 <details>
-<summary><a href="#">Generative AI Leader</a></summary>
+<summary><a href="https://cloud.google.com/learn/certification/generative-ai-leader">Generative AI Leader</a></summary>
 
 A Generative AI Leader is a visionary professional with comprehensive knowledge of how generative AI (gen AI) can transform businesses. They have business-level knowledge of Google Cloud's gen AI offerings and understand how Google's AI-first approach can lead organizations toward innovative and responsible AI adoption. They influence gen AI-powered initiatives and identify opportunities across business functions and industries, using Google Cloud's enterprise-ready offerings to accelerate innovation.
 
