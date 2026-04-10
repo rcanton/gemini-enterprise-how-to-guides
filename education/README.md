@@ -5,7 +5,13 @@
 # Education
 
 ## Certification
-* [Generative AI Leader](https://cloud.google.com/learn/certification/generative-ai-leader)
+<details>
+<summary><a href="#">Generative AI Leader</a></summary>
+
+A Generative AI Leader is a visionary professional with comprehensive knowledge of how generative AI (gen AI) can transform businesses. They have business-level knowledge of Google Cloud's gen AI offerings and understand how Google's AI-first approach can lead organizations toward innovative and responsible AI adoption. They influence gen AI-powered initiatives and identify opportunities across business functions and industries, using Google Cloud's enterprise-ready offerings to accelerate innovation.
+
+This certification is for anyone in any job role, with or without hands-on technical experience.
+</details>
 
 ## Google Cloud Self-Paced Labs
 * [Introduction to Gemini Enterprise](https://www.skills.google/course_templates/1401?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=78695394)
